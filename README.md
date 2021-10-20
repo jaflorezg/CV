@@ -18,7 +18,7 @@ Scientist with advanced skills to interact and support diverse areas at the glob
 * Position: Senior Business Analytics and Data Governance, Zimmer Biomet, Bogotá, Colombia
 Julio 2021 - Present
 
-✔ Work with the global Finance and IT organizations to ensure the accuracy of key financial data in a timely
+    + ✔ Work with the global Finance and IT organizations to ensure the accuracy of key financial data in a timely
 and reliable manner.
 
 ✔ Harmonization and design/development to ensure that changes made by Stakeholders and Corporate Data
