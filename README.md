@@ -1,4 +1,12 @@
-# CV
+# Daniel Jiménez 
+
+Data Scientist, Machine Learning and Statistician
+
+### Contact Info
+
+* Mail : jaflorezg@gmail.com 
+* Linkedin : https://www.linkedin.com/in/jose-andres-florez-gutierrez/
+
 # Professional Profile
 
 Sr Statistician and Sr Data Scientist, with +8 years of experience in major private international and public companies leading diverse teams of data scientists and data engineers, specialized in helping companies unlock the value of their data, with information architectures, analysis, and interpretation of business requirements. Remarkable skills to
