@@ -15,16 +15,16 @@ Scientist with advanced skills to interact and support diverse areas at the glob
 
 # Work Experience
 
-* Position: Senior Business Analytics and Data Governance, Zimmer Biomet, Bogotá, Colombia
+## Position: Senior Business Analytics and Data Governance, Zimmer Biomet, Bogotá, Colombia
 Julio 2021 - Present
 
-    + ✔ Work with the global Finance and IT organizations to ensure the accuracy of key financial data in a timely
+ ✔ Work with the global Finance and IT organizations to ensure the accuracy of key financial data in a timely
 and reliable manner.
 
 ✔ Harmonization and design/development to ensure that changes made by Stakeholders and Corporate Data
 and Analytics teams are captured.
 
-# Position: Senior Data Science and Analytics, Johnson & Johnson, Bogotá, Colombia
+## Position: Senior Data Science and Analytics, Johnson & Johnson, Bogotá, Colombia
 August 2018 – Julio 2021
 
 ✔ Lead contractors data scientist, data engineer teams to define and delegate strategies, following the steps
@@ -42,7 +42,7 @@ designing in deliverable dashboards.
 ✔ Responsible for ensuring Strategic Global Areas across J&J R2P, Sourcing, Payment, Supply Chain, R&D
 with Machine Learning and Advanced Analytics information, impacting finance and savings contracts.
 
-# Position: Mentor Data Science, Acamica, Bogotá, Colombia
+## Position: Mentor Data Science, Acamica, Bogotá, Colombia
 
 February 2020 – Present
 
