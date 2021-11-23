@@ -13,7 +13,7 @@ Sr Statistician and Sr Data Scientist, with +8 years of experience in major priv
 communicate with the methodologie of storytelling, results and insights that help General Managers, VP’s and high executives to consider actions. Strong capabilities to understand programming languages, statistical techniques in business intelligence, data analytics, predictive model, marketing research, and customer experience. I'm a Sr. Data
 Scientist with advanced skills to interact and support diverse areas at the global level in the company to understand their needs and optimize the way to make decisions and achieve a true digital transformation driven by data.
 
-# Work Experience
+# Work Experience 
 
 ## Position: Senior Business Analytics and Data Governance, Zimmer Biomet, Bogotá, Colombia
 Julio 2021 - Present
