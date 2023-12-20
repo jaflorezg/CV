@@ -9,9 +9,11 @@ Data Scientist, Machine Learning and Statistician
 
 # Professional Profile
 
-Sr Statistician and Sr Data Scientist, with +8 years of experience in major private international and public companies leading diverse teams of data scientists and data engineers, specialized in helping companies unlock the value of their data, with information architectures, analysis, and interpretation of business requirements. Remarkable skills to
-communicate with the methodologie of storytelling, results and insights that help General Managers, VP’s and high executives to consider actions. Strong capabilities to understand programming languages, statistical techniques in business intelligence, data analytics, predictive model, marketing research, and customer experience. I'm a Sr. Data
-Scientist with advanced skills to interact and support diverse areas at the global level in the company to understand their needs and optimize the way to make decisions and achieve a true digital transformation driven by data.
+An experienced leader with +10 years in the Data Scientist and Business Analytics world. 
+
+My work and passion are being developed in major international companies equipping leaders to make insightful decisions and create data solutions that put customers and patients at the center of our analysis. 
+
+Extensive knowledge of processes, manipulation, analysis, and interpretation of business requirements. Remarkable skills in communicating results and ideas that help all types of professionals and high executives to take action and decisions. Strong capabilities in understanding programming languages (R, Python, Alteryx, Tableau, SQL, AWS, Azure), leading to statistical methodologies in business intelligence, data analytics, predictive models, marketing research, and customer experience. I'm a Data Scientist with advanced skills to interact and support diverse areas at the global level in the company to understand their needs and optimize the way to make decisions and achieve a true digital transformation driven by data.
 
 # Work Experience 
 
