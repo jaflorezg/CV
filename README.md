@@ -15,6 +15,19 @@ My work and passion are being developed in major international companies equippi
 
 Extensive knowledge of processes, manipulation, analysis, and interpretation of business requirements. Remarkable skills in communicating results and ideas that help all types of professionals and high executives to take action and decisions. Strong capabilities in understanding programming languages (R, Python, Alteryx, Tableau, SQL, AWS, Azure), leading to statistical methodologies in business intelligence, data analytics, predictive models, marketing research, and customer experience. I'm a Data Scientist with advanced skills to interact and support diverse areas at the global level in the company to understand their needs and optimize the way to make decisions and achieve a true digital transformation driven by data.
 
+Skills:
+
+- Leadership
+- Data Scientist
+- Business Analytics
+- Machine Learning
+- NLP
+- Data Governance
+- Storytelling creator
+- Relational and no relational SQL databases
+- SQL Server
+
+You can contact me at jaflorezg@gmail.com
 # Work Experience 
 
 ## Position: Senior Business Analytics and Data Governance, Zimmer Biomet, Bogotá, Colombia
