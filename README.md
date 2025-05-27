@@ -31,8 +31,14 @@ Skills:
 You can contact me at jaflorezg@gmail.com
 # Work Experience 
 
-## Position: Senior Business Analytics and Data Governance, Zimmer Biomet, Bogotá, Colombia
-Julio 2021 - Present
+## Position: Lead Data Science, Zimmer Biomet, Bogotá, Colombia
+September 2024 - Present
+
+## Position: Sr Business Analytics and Data Governance (Process Excellence Team), Zimmer Biomet, Bogotá, Colombia
+August 2023 – September 2024
+
+## Position: Senior Business Analytics and Data Governance (Finance Intercompany CoE), Zimmer Biomet, Bogotá, Colombia
+July 2021 – August 2023
 
 ✔ Lead a team of 2 data scientist Warsaw, Poland, 2 data engineers Warsaw, Indiana, and 1 Data analyst and
 1 intern Colombia
